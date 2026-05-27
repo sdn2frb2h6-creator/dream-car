@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    background:black;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+}
+
+header{
+    background:red;
+    padding:20px;
+}
+
+.hero{
+    padding:100px;
+}
+
+.hero h2{
+    font-size:60px;
+    color:red;
+}
+
+.info{
+    padding:50px;
+}
